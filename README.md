@@ -6,7 +6,7 @@
 </p>
 
 <h4 align="center">
-  I am a Backend Developer with expertise in **Node.js**, **Express**, **MongoDB**, **Redis**, **Docker**, and **JavaScript**. I specialize in building scalable backend systems, optimizing performance, and implementing efficient caching solutions.
+  I am a Backend Developer with expertise in **Node.js**, **Express**, **MongoDB**, **Redis**, and **JavaScript**. I specialize in building scalable backend systems, optimizing performance, and implementing efficient caching solutions.
 </h4>
 
 <p align="center">
