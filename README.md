@@ -29,8 +29,6 @@
 
 - 📫 Reach me at: **vijaynimar8@gmail.com**
 
-- 📄 [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67862a91f7b3074e9127867d)
-
 ---
 
 ### 🚀 **Connect with Me**:
