@@ -79,8 +79,7 @@
 
 ---
 
-### 📜 **Resume**:
-- My resume is available for download: [Click here to view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67862a91f7b3074e9127867d)
+
 
 ---
 
